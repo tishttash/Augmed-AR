@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="natgeo_sun_" size="0.200000 0.150588" />
+    <ImageTarget name="natgeo_sun" size="0.200000 0.112619" />
+    <ImageTarget name="solarsystempink" size="0.200000 0.114151" />
+    <ImageTarget name="solar_system" size="0.100000 0.056250" />
+    <ImageTarget name="Bo_slap_aga" size="0.150000 0.138376" />
+  </Tracking>
+</QCARConfig>
