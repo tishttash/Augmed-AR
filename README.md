@@ -1,12 +1,12 @@
 # Augmed_AR
 AR Mobile app to facilitate learning. Created with Unity (C#) and Vuforia Engine.
+[Video Demo Link](https://youtu.be/-fiORR8tJZE)
 
-Immediate improvements to current project: 
+### Immediate improvements to current project: 
 - Better image targets, enhance reliability
 - Import packages that allow touch manipulation (scaling, rotating, transforming) of models (eg: LeanTouch Unity package)
 
-[Video Demo Link](https://youtu.be/-fiORR8tJZE)
-
+### To run code:
 1. Clone project (1 missing file: Packages/com.ptc.vuforia.engine-10.6.3.tgz - I will add when GitLFS is installed.)
 2. Open project in Unity editor
 3. Change build settings to whichever mobile platform you want to build on. (I have built on iOS)
