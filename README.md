@@ -4,7 +4,7 @@ AR Mobile app to facilitate learning. Created with Unity (C#) and Vuforia Engine
 
 ### Immediate improvements to current project: 
 - Better image targets, enhance reliability
-- Import packages that allow touch manipulation (scaling, rotating, transforming) of models (eg: LeanTouch Unity package)
+- Import packages that allow touch manipulation (scaling, rotating, transforming) of models (using LeanTouch Unity package)
 
 ### To run code:
 1. Clone project (1 missing file: Packages/com.ptc.vuforia.engine-10.6.3.tgz - I will add when GitLFS is installed.)
